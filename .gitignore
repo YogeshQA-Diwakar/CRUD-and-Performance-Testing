@@ -1,0 +1,18 @@
+# Maven generated files
+target/
+
+# TestNG generated reports
+test-output/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db.factorypath
+.factorypath
