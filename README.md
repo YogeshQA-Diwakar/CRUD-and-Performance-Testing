@@ -82,7 +82,7 @@ The project includes practice with:
 ## Project Structure
 
 ```text
-CRUDOperations
+**CRUDOperations
 ├── src
 │   ├── main
 │   │   └── java
@@ -97,9 +97,10 @@ CRUDOperations
 │   └── ReqRes-Load-Test.jmx
 ├── pom.xml
 ├── .gitignore
-└── README.md
+└── README.md**
+------------------------------------------------------------------------------------------
 
-Test Execution
+## Test Execution
 The API automation tests can be executed as TestNG tests from Eclipse.
 Expected status codes:
 - GET Users: 200 OK
